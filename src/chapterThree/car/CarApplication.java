@@ -1,4 +1,4 @@
-package car;
+package chapterThree.car;
 
 public class CarApplication {
     public static void main(String[] args) {

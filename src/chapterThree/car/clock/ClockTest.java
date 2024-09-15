@@ -1,4 +1,4 @@
-package clock;
+package chapterThree.car.clock;
 
 public class ClockTest {
     public static void main(String[] args) {

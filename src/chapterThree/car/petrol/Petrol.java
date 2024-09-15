@@ -1,4 +1,4 @@
-package petrol;
+package chapterThree.car.petrol;
 
 public class Petrol {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package clock;
+package chapterThree.car.clock;
 
 public class Clock {
     private int hour;
